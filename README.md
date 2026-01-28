@@ -1,2 +1,3 @@
 # git_test
-Day 1 - Git Version Control &amp; CLI 
+Day 1 - Git Version Control &amp; CLI <br> 
+Hello Odin!
